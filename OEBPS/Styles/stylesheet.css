@@ -1,0 +1,58 @@
+
+* {
+	font-family: Georgia, Serif;
+}
+
+header,
+footer {
+	text-align: center;
+	margin-bottom: 2em;
+}
+
+h1, h2, h3, h4 {
+	font-family: "Philosopher", Georgia, Serif;
+}
+
+a {
+	color: #58a;
+}
+
+p {
+	margin-bottom: 1em;
+}
+
+ul {
+	list-style: circle;
+}
+
+li {
+	margin-bottom: 0.5em;
+}
+
+@font-face {
+    font-family: 'Philosopher';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../Fonts/philosopher.ttf');
+}
+
+@font-face {
+    font-family: 'Philosopher';
+    font-weight: bold;
+    font-style: normal;
+    src: url('../Fonts/philosopher-bold.ttf');
+}
+
+@font-face {
+    font-family: 'Philosopher';
+    font-weight: normal;
+    font-style: italic;
+    src: url('../Fonts/philosopher-italic.ttf');
+}
+
+@font-face {
+    font-family: 'Philosopher';
+    font-weight: bold;
+    font-style: italic;
+    src: url('../Fonts/philosopher-italic-bold.ttf');
+}

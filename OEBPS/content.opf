@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:c139a38f-7b87-478b-83b0-80c213f60afa</dc:identifier>
+    <dc:title>The Dark Enlightenment</dc:title>
+    <dc:creator opf:role="aut">Nick Land</dc:creator>
+    <dc:language>en</dc:language>
+    <dc:date opf:event="modification">2014-07-01</dc:date>
+    <dc:contributor opf:role="trc">@jbboehr</dc:contributor>
+    <dc:source>http://www.thedarkenlightenment.com/the-dark-enlightenment-by-nick-land/</dc:source>
+    <meta content="0.7.4" name="Sigil version" />
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/the_dark_enlightenment_part1.xhtml" id="the_dark_enlightenment_part1.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/the_dark_enlightenment_part2.xhtml" id="the_dark_enlightenment_part2.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/the_dark_enlightenment_part3.xhtml" id="the_dark_enlightenment_part3.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/the_dark_enlightenment_part4.xhtml" id="the_dark_enlightenment_part4.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/the_dark_enlightenment_part5.xhtml" id="the_dark_enlightenment_part5.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/the_dark_enlightenment_part6.xhtml" id="the_dark_enlightenment_part6.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/the_dark_enlightenment_part7.xhtml" id="the_dark_enlightenment_part7.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/the_dark_enlightenment_part8.xhtml" id="the_dark_enlightenment_part8.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/the_dark_enlightenment_part9.xhtml" id="the_dark_enlightenment_part9.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/the_dark_enlightenment_part10.xhtml" id="the_dark_enlightenment_part10.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/title.html" id="title.html" media-type="application/xhtml+xml" />
+    <item href="Fonts/philosopher.ttf" id="philosopher.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/philosopher-bold.ttf" id="philosopher-bold.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/philosopher-italic.ttf" id="philosopher-italic.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/philosopher-italic-bold.ttf" id="philosopher-italic-bold.ttf" media-type="application/x-font-ttf" />
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="title.html" />
+    <itemref idref="the_dark_enlightenment_part1.xhtml" />
+    <itemref idref="the_dark_enlightenment_part2.xhtml" />
+    <itemref idref="the_dark_enlightenment_part3.xhtml" />
+    <itemref idref="the_dark_enlightenment_part4.xhtml" />
+    <itemref idref="the_dark_enlightenment_part5.xhtml" />
+    <itemref idref="the_dark_enlightenment_part6.xhtml" />
+    <itemref idref="the_dark_enlightenment_part7.xhtml" />
+    <itemref idref="the_dark_enlightenment_part8.xhtml" />
+    <itemref idref="the_dark_enlightenment_part9.xhtml" />
+    <itemref idref="the_dark_enlightenment_part10.xhtml" />
+  </spine>
+  <guide />
+</package>
