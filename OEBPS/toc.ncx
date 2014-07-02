@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
  "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:c139a38f-7b87-478b-83b0-80c213f60afa" />
-    <meta name="dtb:depth" content="1" />
-    <meta name="dtb:totalPageCount" content="0" />
-    <meta name="dtb:maxPageNumber" content="0" />
+    <meta content="urn:uuid:c139a38f-7b87-478b-83b0-80c213f60afa" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
   </head>
   <docTitle>
     <text>Unknown</text>
@@ -16,61 +16,61 @@
       <navLabel>
         <text>Part 1: Neo-reactionaries head for the exit</text>
       </navLabel>
-      <content src="Text/the_dark_enlightenment_part1.xhtml" />
+      <content src="Text/the_dark_enlightenment_part1.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-2" playOrder="2">
       <navLabel>
         <text>Part 2: The arc of history is long, but it bends towards zombie apocalypse</text>
       </navLabel>
-      <content src="Text/the_dark_enlightenment_part2.xhtml" />
+      <content src="Text/the_dark_enlightenment_part2.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-3" playOrder="3">
       <navLabel>
         <text>Part 3</text>
       </navLabel>
-      <content src="Text/the_dark_enlightenment_part3.xhtml" />
+      <content src="Text/the_dark_enlightenment_part3.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-4" playOrder="4">
       <navLabel>
         <text>Part 4: Re-running the race to ruin</text>
       </navLabel>
-      <content src="Text/the_dark_enlightenment_part4.xhtml" />
+      <content src="Text/the_dark_enlightenment_part4.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-5" playOrder="5">
       <navLabel>
         <text>Part 4a: A multi-part sub-digression into racial terror</text>
       </navLabel>
-      <content src="Text/the_dark_enlightenment_part5.xhtml" />
+      <content src="Text/the_dark_enlightenment_part5.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-6" playOrder="6">
       <navLabel>
         <text>Part 4b: Obnoxious observations</text>
       </navLabel>
-      <content src="Text/the_dark_enlightenment_part6.xhtml" />
+      <content src="Text/the_dark_enlightenment_part6.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-7" playOrder="7">
       <navLabel>
         <text>Part 4c: The Cracker Factory</text>
       </navLabel>
-      <content src="Text/the_dark_enlightenment_part7.xhtml" />
+      <content src="Text/the_dark_enlightenment_part7.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-8" playOrder="8">
       <navLabel>
         <text>Part 4d: Odd Marriages</text>
       </navLabel>
-      <content src="Text/the_dark_enlightenment_part8.xhtml" />
+      <content src="Text/the_dark_enlightenment_part8.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-9" playOrder="9">
       <navLabel>
         <text>Part 4e: Cross-coded history</text>
       </navLabel>
-      <content src="Text/the_dark_enlightenment_part9.xhtml" />
+      <content src="Text/the_dark_enlightenment_part9.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-10" playOrder="10">
       <navLabel>
         <text>Part 4f: Approaching the Bionic Horizon</text>
       </navLabel>
-      <content src="Text/the_dark_enlightenment_part10.xhtml" />
+      <content src="Text/the_dark_enlightenment_part10.xhtml"/>
     </navPoint>
   </navMap>
 </ncx>
