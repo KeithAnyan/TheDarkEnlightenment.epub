@@ -8,6 +8,7 @@ Download:
 [epub](http://keithanyan.github.io/TheDarkEnlightenment.epub/TheDarkEnlightenment.epub)
 [mobi](http://keithanyan.github.io/TheDarkEnlightenment.epub/TheDarkEnlightenment.mobi)
 [pdf](http://keithanyan.github.io/TheDarkEnlightenment.epub/TheDarkEnlightenment.pdf)
+[md](http://keithanyan.github.io/TheDarkEnlightenment.epub/TheDarkEnlightenment.md)
 
 ## License
 
